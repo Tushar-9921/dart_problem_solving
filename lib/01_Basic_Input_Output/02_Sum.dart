@@ -1,3 +1,5 @@
+// Take two numbers as input and print their sum.
+
 import 'dart:io';
 
 void main() {
