@@ -1,4 +1,4 @@
-// Take a number and separate its digits.
+// Take a three-digit number and separate its digits.
 
 
 import 'dart:io';
