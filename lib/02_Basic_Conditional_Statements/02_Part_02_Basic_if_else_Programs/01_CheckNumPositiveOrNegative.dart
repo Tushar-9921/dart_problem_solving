@@ -8,8 +8,8 @@ void main() {
   int number = int.parse(stdin.readLineSync()!);
 
   if (number > 0) {
-    print('Positive Number');
+    print('Number is positive');
   } else {
-    print('Negative Number');
+    print('Number is negative');
   }
 }
