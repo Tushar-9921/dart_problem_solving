@@ -13,3 +13,6 @@ void main() {
     print('Number is not divisible by 10');
   }
 }
+
+// ⭐ Important Shortcut
+// For a number to be divisible by 10, its last digit must be 0.
